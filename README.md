@@ -34,7 +34,4 @@ A comprehensive **Car Rental System** built using **Java** and **MySQL**, design
 - Java Development Kit (JDK) 8 or higher
 - MySQL (optional, for future database integration)
 
-### Steps
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/car-rental-system.git
+
